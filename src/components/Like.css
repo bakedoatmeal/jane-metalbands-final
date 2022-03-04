@@ -1,0 +1,17 @@
+.Like {
+  display: flex;
+  flex-direction: row;
+  width: 100px;
+  align-items: center;
+  margin: auto;
+}
+
+.Like button {
+  width: 35px;
+  height: 35px;
+  margin: 8px;
+  border: none;
+  background-color: navy;
+  color: white;
+  border-radius: 4px;
+}
